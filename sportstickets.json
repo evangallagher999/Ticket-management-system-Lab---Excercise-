@@ -1,0 +1,38 @@
+[
+    {
+        "event_time": "27/02/2024 19:30",
+        "event_name": "Ireland vs, Wales",
+        "venue": "Tallaght Stadium, Dublin",
+        "price": 25.0,
+        "total_tickets": 80000,
+        "sport": "Football",
+        "competition": "International Friendly"
+    },
+    {
+        "event_name": "fjjf",
+        "event_time": "29/04/2026 18:30",
+        "venue": "fjjf",
+        "price": 90.0,
+        "total_tickets": 30,
+        "sport": "Football",
+        "competition": "fjfj"
+    },
+    {
+        "event_name": "hgjhgjh",
+        "event_time": "15/04/2026 18:30",
+        "venue": "fhfhgfgh",
+        "price": 15.0,
+        "total_tickets": 500,
+        "sport": "Football",
+        "competition": "ghjgjh"
+    },
+    {
+        "event_name": "john",
+        "event_time": "17/05/2026 14:30",
+        "venue": "3 are",
+        "price": 10.0,
+        "total_tickets": 1,
+        "sport": "Football",
+        "competition": "fyfhg"
+    }
+]
